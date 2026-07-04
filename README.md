@@ -58,13 +58,15 @@ editorial-analytics-360-powerbi/
 
 │   ├─ dashboard_overview.png
 
-│   ├─ mapa_ventas_ciudades.png
+│   ├─ map_sales_by_city.png
 
-│   ├─ forecast_ventas.png
+│   ├─ advanced_kpis_and_trends
 
-│   ├─ key_influencers.png
+│   ├─ business_intelligence_predictive.png
 
-│   └─ treemap_editoriales.png
+│   ├─ catalog_analysis_strategy.png
+
+│   └─ critical_metrics_dashboard.png
 
 ├─ README.md
 
